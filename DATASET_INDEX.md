@@ -1,13 +1,11 @@
 # Ironbox Clothing & Ironing Dataset Index
 
-This dataset contains photographs and recordings captured on 2026-11-05 documenting clothes being ironed on a traditional mobile ironing cart (dhobi cart) using a heavy charcoal brass iron box.
+This dataset contains photographs captured on 2026-11-05 documenting clothes being ironed on a traditional mobile ironing cart (dhobi cart) using a heavy charcoal brass iron box.
 
 ## Dataset Summary
-- **Total items**: 335 files
-- **Total active images**: 319 `.jpg` files
-- **Trashed / recovery items**: 16 files (13 `.jpg` + 3 `.mp4` video clips)
-- **Garment categories**: 34 unique garments/dresses
-- **Context & metadata folders**: 4 supporting folders
+- **Total usable items**: 314 `.jpg` files
+- **Garment categories**: 34 unique garments/dresses (304 photos)
+- **Context & reference folders**: 2 supporting folders (10 photos)
 
 ---
 
@@ -52,15 +50,9 @@ This dataset contains photographs and recordings captured on 2026-11-05 document
 
 ---
 
-## Supporting & System Folders
+## Supporting & Context Folders
 
 | Folder Name | Items | Description |
 |---|:---:|---|
 | `_batch_folded_stacks` | 4 | Close-up reference shots of the stacked ironed garments |
 | `_cart_setup_overview` | 6 | Wide environmental shots showing the street cart, ironing charcoal box, and operator |
-| `_burst_and_noise_shots` | 5 | Black frame and pocket burst noise captures |
-| `_trashed_items` | 16 | Android recycle bin items (13 images + 3 MP4 video clips) safely stored |
-
----
-*Generated automatically by Antigravity.*
-
